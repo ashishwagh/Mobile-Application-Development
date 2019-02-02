@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="file_name">notesData.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="version">Version 1.0</string>
+    <string name="copyright">© 2018, Ashish Wagh</string>
+</resources>
