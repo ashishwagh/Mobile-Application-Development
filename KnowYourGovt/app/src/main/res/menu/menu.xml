@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimaryDark">
+
+
+    <item
+        android:id="@+id/info"
+
+        android:icon="@drawable/baseline_help_white_48"
+        android:title="@string/infos"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/search_location"
+
+
+        android:icon="@drawable/baseline_search_white_48"
+        android:title="@string/search_location"
+        app:showAsAction="always" />
+</menu>
